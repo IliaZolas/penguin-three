@@ -1,0 +1,11 @@
+Model Information:
+* title:	Emperor penguin (Non-Commercial)
+* source:	https://sketchfab.com/3d-models/emperor-penguin-non-commercial-f822d65d7ce844c3b028eade66f4e717
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Emperor penguin (Non-Commercial)" (https://sketchfab.com/3d-models/emperor-penguin-non-commercial-f822d65d7ce844c3b028eade66f4e717) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
